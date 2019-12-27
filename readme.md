@@ -1,6 +1,6 @@
 # Version 2.2.4
 
-# WP Maintenance Mode
+# CP Maintenance Mode
 
 Adds a splash page to your site that lets visitors know your site is down for maintenance. It's perfect for a coming soon page. The new Bot functionality is here!
 
@@ -23,7 +23,7 @@ Adds a splash page to your site that lets visitors know your site is down for ma
 
 **Credits**
 
-Developed by [Designmodo](https://designmodo.com) & [StrictThemes – WordPress Themes](http://strictthemes.com/)
+Originally Developed by [Designmodo](https://designmodo.com) & [StrictThemes – WordPress Themes](http://strictthemes.com/)
 
 ## F.A.Q.
 
